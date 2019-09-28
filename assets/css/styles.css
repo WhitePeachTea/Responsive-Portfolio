@@ -233,6 +233,13 @@ margin: 0 auto;
 .portfolio .portfolio.img {
   width: 200%;
 }
+    
+h1,
+h3,
+p {
+    font-size: 14px;
+}
+
 
 }
 
@@ -261,16 +268,10 @@ nav a {
   padding-right: 20px;
 }
 
-h1,
-h3,
-p {
-    font-weight: lighter;
-    font-size: 10px;
-}
 
 @media screen and (min-width: 768px) and (max-width: 980px) {
 
-  #whatever {
+#whatever {
     position: static;
   }
 
